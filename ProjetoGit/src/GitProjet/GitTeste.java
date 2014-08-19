@@ -26,8 +26,7 @@ public class GitTeste {
 		int multiplicacao = x * y;
 		System.out.println("Soma dos numero é = " + soma);
 		System.out.println("Subtração dos numeros é = " + subtracao);
-		System.out.println("Divisão dos numeros é = " + divisao);
-		System.out.println("Multiplicação dos numeros é = " + multiplicacao);
+		
 
 	}
 
